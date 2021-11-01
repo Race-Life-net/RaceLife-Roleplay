@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Welcome To Race-Life.net!
 
-You can use the [editor on GitHub](https://github.com/FrontlineGenisis/Race-Life.net/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### About
+* Race-Life.Net Provides Unique BeamNG Multiplayer Servers For Everyone.
+* Over 15 Servers Dedicated To Everyones Favorite Racing And Driving Genres.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Meet Our Team
 
-### Markdown
+**[MK](https://www.twitch.tv/mkhideout) - Race-Life.net Founder, Server Manager**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* John "MK" Mekelatos is a Unity Developer, Content Creator, and Owner of many racing communities for popular racing games, including Assetto Corsa, BeamNG, The Forza Franchise and the Need For Speed Franchise.
+* He is currently working on a FPS airsoft game.
 
-```markdown
-Syntax highlighted code block
+**[Frontline Genisis](https://portfolio.frontlinegen.repl.co) - Race-Life.net Lead Web Developer**
 
-# Header 1
-## Header 2
-### Header 3
+* Originally born in London, England- Marshall "Frontline Genisis" Woods always had an interest in Computing Science; coding his first project at the age of 7, which was a basic timer app built in Javascript.
+* Now he is currently studying for a computing and engineering qualification.
 
-- Bulleted
-- List
+**[Someonewho2](https://frontlinegen.it/divert/someonewho2) - Race-Life.net SQL Developer, Manager**
 
-1. Numbered
-2. List
+* Honestly, they stay so anonymous, there is nothing to put here.
+* Now they are doing, I don't know.
 
-**Bold** and _Italic_ and `Code` text
+**[Debaucus](https://twitter.com/debaucus) - Race-Life.net SQL Developer, Manager**
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FrontlineGenisis/Race-Life.net/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* Ryan "Debaucus" Is a English born developer, knowing many ranging coding languages so of which include HTML, CSS, JS and more.
+* Now they are currently working on [DNDW.net](https://dndw.net)
