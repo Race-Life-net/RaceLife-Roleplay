@@ -23,5 +23,5 @@
 
 **[Debaucus]() - Race-Life.net SQL Developer, Manager**
 
-* Ryan "Debaucus" 
-* Now they are doing, I don't know.
+* Ryan "Debaucus" Is a English born developer, knowing many ranging coding languages so of which include HTML, CSS, JS and more.
+* Now they are currently working on [DNDW.net](https://dndw.net)
