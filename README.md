@@ -6,12 +6,22 @@
 
 ### Meet Our Team
 
+**[MK](https://www.twitch.tv/mkhideout) - Race-Life.net Founder, Server Manager**
+
+* John "MK" Mekelatos is a Unity Developer, Content Creator, and Owner of many racing communities for popular racing games, including Assetto Corsa, BeamNG, The Forza Franchise and the Need For Speed Franchise.
+* He is currently working on a FPS airsoft game.
+
 **[Frontline Genisis](https://portfolio.frontlinegen.repl.co) - Race-Life.net Lead Web Developer**
 
 * Originally born in London, England- Marshall "Frontline Genisis" Woods always had an interest in Computing Science; coding his first project at the age of 7, which was a basic timer app built in Javascript.
 * Now he is currently studying for a computing and engineering qualification.
 
-**[MK](https://www.twitch.tv/mkhideout) - Race-Life.net Founder, Server Manager**
+**[Someonewho2]() - Race-Life.net SQL Developer, Manager**
 
-* John "MK" Mekelatos is a Unity Developer, Content Creator, and Owner of many racing communities for popular racing games, including Assetto Corsa, BeamNG, The Forza Franchise and the Need For Speed Franchise.
-* He is currently working on a FPS airsoft game.
+* Honestly, they stay so anonymous, there is nothing to put here.
+* Now they are doing, I don't know.
+
+**[Debaucus]() - Race-Life.net SQL Developer, Manager**
+
+* Ryan "Debaucus" 
+* Now they are doing, I don't know.
