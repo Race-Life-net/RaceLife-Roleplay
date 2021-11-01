@@ -4,8 +4,6 @@
 * Race-Life.Net Provides Unique BeamNG Multiplayer Servers For Everyone.
 * Over 15 Servers Dedicated To Everyones Favorite Racing And Driving Genres.
 
-![RaceLifeImage](https://hosting.frontlinegen.repl.co/race-life/racelifeimage.webp "")
-
 ### Meet Our Team
 
 **[MK](https://www.twitch.tv/mkhideout) - Race-Life.net Founder, Server Manager**
@@ -27,3 +25,5 @@
 
 * Ryan "Debaucus" Is a English born developer, knowing many ranging coding languages so of which include HTML, CSS, JS and more.
 * Now they are currently working on [DNDW.net](https://dndw.net)
+
+![RaceLifeImage](https://hosting.frontlinegen.repl.co/race-life/racelifeimage1.webp "")
