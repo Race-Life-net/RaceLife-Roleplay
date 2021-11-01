@@ -16,12 +16,12 @@
 * Originally born in London, England- Marshall "Frontline Genisis" Woods always had an interest in Computing Science; coding his first project at the age of 7, which was a basic timer app built in Javascript.
 * Now he is currently studying for a computing and engineering qualification.
 
-**[Someonewho2]() - Race-Life.net SQL Developer, Manager**
+**[Someonewho2](https://frontlinegen.it/divert/someonewho2) - Race-Life.net SQL Developer, Manager**
 
 * Honestly, they stay so anonymous, there is nothing to put here.
 * Now they are doing, I don't know.
 
-**[Debaucus]() - Race-Life.net SQL Developer, Manager**
+**[Debaucus](https://twitter.com/debaucus) - Race-Life.net SQL Developer, Manager**
 
 * Ryan "Debaucus" Is a English born developer, knowing many ranging coding languages so of which include HTML, CSS, JS and more.
 * Now they are currently working on [DNDW.net](https://dndw.net)
