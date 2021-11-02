@@ -21,7 +21,7 @@
 * Honestly, they stay so anonymous, there is nothing to put here.
 * Now they are doing, I don't know.
 
-**[Debaucus](https://twitter.com/debaucus) - Race-Life.net SQL Developer, Manager**
+**[Debaucus](https://twitter.com/debaucus) - Race-Life.net SQL, Web Developer**
 
 * Ryan "Debaucus" Is a English born developer, knowing many ranging coding languages so of which include HTML, CSS, JS and more.
 * Now they are currently working on [DNDW.net](https://dndw.net)
